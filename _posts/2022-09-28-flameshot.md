@@ -22,7 +22,7 @@ Void Linux:
 sudo xbps-install flameshot
 ```
 
-**To launch Flameshot:**
+**To launch Flameshot from terminal:**
 
 ```sh
 flameshot gui
