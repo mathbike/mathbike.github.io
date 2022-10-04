@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flameshot on Linux"
+title:  "Flameshot Screenshot Tool"
 ---
 
 **Flameshot is a really cool program for taking screenshots.**
