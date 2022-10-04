@@ -3,7 +3,7 @@ layout: post
 title:  "Flameshot Screenshot Tool"
 ---
 
-**Flameshot is a really cool program for taking screenshots.**
+**Flameshot is a cool program for taking screenshots.**
 
 <img src="./images/flameshot-hero.jpg" height="300">
 
