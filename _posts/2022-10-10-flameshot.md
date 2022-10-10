@@ -1,6 +1,4 @@
 ---
-layout: post
-date: 2022-10-10
 title:  Flameshot Screenshot Tool
 categories: [Linux]
 tags: [linux]
