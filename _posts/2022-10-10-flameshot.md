@@ -10,7 +10,7 @@ Docs: <https://flameshot.org/docs/>
 
 Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
-![](/post_images/flameshot-hero.jpg)
+![](/images/flameshot-hero.jpg)
 
 ## 1. Download the Flameshot package:
 
@@ -90,4 +90,4 @@ The docs are here: https://flameshot.org/docs/guide/key-bindings/
 
 <br>
 
-![](/post_images/flameshot-color.png)
+![](/images/flameshot-color.png)
