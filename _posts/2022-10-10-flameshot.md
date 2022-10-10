@@ -10,8 +10,6 @@ Docs: <https://flameshot.org/docs/>
 
 Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
-<img src="./post_images/flameshot-hero.jpg" height="300">
-
 ![](/post_images/flameshot-hero.jpg)
 
 ## 1. Download the Flameshot package:
@@ -91,4 +89,5 @@ The docs are here: https://flameshot.org/docs/guide/key-bindings/
     > **Space**
 
 <br>
-<img src="./images/flameshot-color.png" height="350">
+
+![](/post_images/flameshot-color.png)
