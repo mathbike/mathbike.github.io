@@ -2,6 +2,7 @@
 title:  Flameshot Screenshot Tool
 categories: [Linux]
 tags: [linux]
+img_path: /img/post_images/
 ---
 
 Docs: <https://flameshot.org/docs/>
@@ -10,7 +11,7 @@ Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
 **Flameshot is a cool program for taking screenshots.**
 
-<img src="/_posts/images/flameshot-hero.jpg" height="300">
+<img src="flameshot-hero.jpg" height="300">
 
 ## 1. Download the Flameshot package:
 
