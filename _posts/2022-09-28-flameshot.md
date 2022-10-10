@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Flameshot Screenshot Tool"
-tag: "linux"
-category: "Linux"
-name: "Mike"
+date: 2022
+title:  Flameshot Screenshot Tool
+author: Mike
+categories: [Linux]
+tags: [linux]
 ---
 
 **Flameshot is a cool program for taking screenshots.**
