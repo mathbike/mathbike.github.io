@@ -10,9 +10,9 @@ Docs: <https://flameshot.org/docs/>
 
 Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
-<img src="/assets/img/post_images/flameshot-hero.jpg" height="300">
+<img src="./post_images/flameshot-hero.jpg" height="300">
 
-![](/assets/img/post_images/flameshot-hero.jpg)
+![](/post_images/flameshot-hero.jpg)
 
 ## 1. Download the Flameshot package:
 
