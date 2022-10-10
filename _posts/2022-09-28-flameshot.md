@@ -20,10 +20,6 @@ Arch Linux:
 ```sh
 sudo pacman -S flameshot
 ```
-Void Linux:
-```sh
-sudo xbps-install flameshot
-```
 
 **To launch Flameshot from terminal:**
 
@@ -37,10 +33,7 @@ Arch Linux:
 ```sh
 sudo pacman -S xbindkeys
 ```
-Void Linux:
-```sh
-sudo xbps-install xbindkeys
-```
+
 If this is your first time setting up Xbindkeys, follow the instructions on the <a href="https://wiki.archlinux.org/title/Xbindkeys" target="_blank">ArchWiki</a> for:
 - **2 Configuration**
 - **3 Identifying keycodes**
@@ -54,7 +47,8 @@ Open the Xbindkeys config file in your favourite editor:
 ~/.xbindkeysrc
 ```
 Add Flameshot to launch when you press "Print Screen":
-```
+
+```sh
 "flameshot gui"
    Print
 ```
@@ -63,11 +57,14 @@ Add Flameshot to launch when you press "Print Screen":
 ## 3. Set up the Flameshot config file:
 
 Open the configuration file in your favourite text editor:
-```
+
+```sh
 ~/.config/flameshot/flameshot.ini
 ```
+
 Add these lines to the file:
-```
+
+```ini
 [General]
 drawColor=#ffff00
 drawThickness=2
