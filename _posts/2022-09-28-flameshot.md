@@ -12,7 +12,7 @@ tags: [linux]
 
 To get it working on Arch or a similar Linux distro there are a few extra steps not written in the docs here: https://flameshot.org/docs/
 
-The Arch Wiki page is also useful: https://wiki.archlinux.org/title/Flameshot
+The Arch Wiki fffff page is also useful: https://wiki.archlinux.org/title/Flameshot
 
 ## 1. Download the Flameshot package:
 
