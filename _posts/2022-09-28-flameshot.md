@@ -8,7 +8,7 @@ tags: [linux]
 
 **Flameshot is a cool program for taking screenshots.**
 
-<img src="./images/flameshot-hero.jpg" height="300">
+<img src="/_posts/images/flameshot-hero.jpg" height="300">
 
 To get it working on Arch or a similar Linux distro there are a few extra steps not written in the docs here: https://flameshot.org/docs/
 
