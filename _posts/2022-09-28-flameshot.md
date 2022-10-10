@@ -10,9 +10,9 @@ tags: [linux]
 
 <img src="/_posts/images/flameshot-hero.jpg" height="300">
 
-Docs: https://flameshot.org/docs/
+Docs: <https://flameshot.org/docs/>
 
-Arch Wiki: https://wiki.archlinux.org/title/Flameshot
+Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
 ## 1. Download the Flameshot package:
 
