@@ -17,7 +17,7 @@ Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 ## 1. Download the Flameshot package
 
 Arch Linux:
-```sh
+```terminal
 sudo pacman -S flameshot
 ```
 ## 2. Make sure you have Xbindkeys installed
@@ -39,7 +39,7 @@ Open the Xbindkeys config file:
 ```sh
 ~/.xbindkeysrc
 ```
-Make Flameshot launch when you press "Print Screen":
+Add this to the file to make Flameshot launch when you press "Print Screen":
 
 ```sh
 "flameshot gui"
