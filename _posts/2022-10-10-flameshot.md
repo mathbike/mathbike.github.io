@@ -14,13 +14,13 @@ Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
 ![](/images/flameshot-hero.jpg){: width="600" .normal }
 
-## 1. Download the Flameshot package:
+## 1. Download the Flameshot package
 
 Arch Linux:
 ```sh
 sudo pacman -S flameshot
 ```
-## 2. Make sure you have Xbindkeys installed:
+## 2. Make sure you have Xbindkeys installed
 
 Arch Linux:
 ```sh
@@ -47,7 +47,7 @@ Make Flameshot launch when you press "Print Screen":
 ```
 **(Use the keycode specific to your machine, in my case the keycode is Print)**
 
-## 3. Set up the Flameshot config file:
+## 3. Set up the config
 
 Open the configuration file:
 
@@ -65,7 +65,7 @@ savePath=<path to save directory>
 ```
 (Edit these values to change the initial draw color, line thickness, save directory, etc.)
 
-## 4. Using Flameshot:
+## 4. Using Flameshot
 
 | Description | Command |
 | ----------- | ----------- |
