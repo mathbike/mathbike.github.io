@@ -20,10 +20,11 @@ Arch Linux:
 ```terminal
 sudo pacman -S flameshot
 ```
+
 ## 2. Make sure you have Xbindkeys installed
 
 Arch Linux:
-```sh
+```terminal
 sudo pacman -S xbindkeys
 ```
 
@@ -36,7 +37,7 @@ If this is your first time setting up Xbindkeys, follow the instructions on the 
 
 Open the Xbindkeys config file:
 
-```sh
+```terminal
 ~/.xbindkeysrc
 ```
 Add this to the file to make Flameshot launch when you press "Print Screen":
@@ -51,7 +52,7 @@ Add this to the file to make Flameshot launch when you press "Print Screen":
 
 Open the configuration file:
 
-```sh
+```terminal
 ~/.config/flameshot/flameshot.ini
 ```
 
@@ -67,7 +68,7 @@ savePath=<path to save directory>
 
 Open the config gui:
 
-```sh
+```terminal
 flameshot config
 ```
 - Under the "Interface" tab select "Increase Tool Size" and "Decrease Tool Size" to make those buttons available
