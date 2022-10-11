@@ -8,6 +8,8 @@ tags: [linux]
 
 Docs: <https://flameshot.org/docs/>
 
+Keybindings: <https://flameshot.org/docs/guide/key-bindings/>
+
 Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
 ![](/images/flameshot-hero.jpg){: width="600" .normal }
@@ -18,13 +20,6 @@ Arch Linux:
 ```sh
 sudo pacman -S flameshot
 ```
-
-**To launch Flameshot from terminal:**
-
-```sh
-flameshot gui
-```
-
 ## 2. Make sure you have Xbindkeys installed:
 
 Arch Linux:
@@ -39,12 +34,12 @@ If this is your first time setting up Xbindkeys, follow the instructions on the 
 
 ## 2. Bind your "Print Screen" key to launch Flameshot 
 
-Open the Xbindkeys config file in your favourite editor:
+Open the Xbindkeys config file:
 
 ```sh
 ~/.xbindkeysrc
 ```
-Add Flameshot to launch when you press "Print Screen":
+Make Flameshot launch when you press "Print Screen":
 
 ```sh
 "flameshot gui"
@@ -54,7 +49,7 @@ Add Flameshot to launch when you press "Print Screen":
 
 ## 3. Set up the Flameshot config file:
 
-Open the configuration file in your favourite text editor:
+Open the configuration file:
 
 ```sh
 ~/.config/flameshot/flameshot.ini
@@ -72,23 +67,13 @@ savePath=<path to save directory>
 
 ## 4. Using Flameshot:
 
-**Now when you press the "Print Screen" key it will launch Flameshot.**
-
-The docs are here: https://flameshot.org/docs/guide/key-bindings/
-
-- To change the color of the drawing tool: 
-
-    > **Right click**
-
-- To change the thickness of the drawing tool: 
-
-    > **Mouse wheel**
-
-- To open the side panel: 
-
-    > **Space**
-
-<kbd>CTRL</kbd>+<kbd>Z</kbd>
+| Description | Command |
+| ----------- | ----------- |
+| Take screenshot | <kbd>PrntScr</kbd> |
+| Launch from terminal | `flameshot gui` |
+| Change color of drawing tool | Right Click |
+| Change thickness of drawing tool | Mouse Wheel |
+| Open side panel | <kbd>Spacebar</kbd> |
 
 <br>
 
