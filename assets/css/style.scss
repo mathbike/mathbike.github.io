@@ -11,6 +11,15 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
+#sidebar .site-title a {
+  font-family: "Courier New", monospace;
+  color: #4a86e8;
+}
+
+/* a {
+  color: #4a86e8;
+} */
+
 pre,
 code {
   font-family: 'JetBrains Mono';
