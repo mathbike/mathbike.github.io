@@ -71,6 +71,7 @@ savePath=<path to save directory>
 | ----------- | ----------- |
 | Take screenshot | <kbd>PrntScr</kbd> |
 | Launch from terminal | `flameshot gui` |
+| Edit config | `flameshot config` |
 | Change color of drawing tool | Right Click |
 | Change thickness of drawing tool | Mouse Wheel |
 | Open side panel | <kbd>Spacebar</kbd> |
