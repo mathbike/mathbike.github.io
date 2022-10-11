@@ -4,7 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This is the site where I keep my documentation files and articles about computer stuff.
 
-This is the about page
+```terminal
+bundle exec jekyll s
+```
+
+```console
+bundle exec jekyll s
+```
