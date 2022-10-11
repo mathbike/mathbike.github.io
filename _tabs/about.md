@@ -6,7 +6,6 @@ order: 4
 
 This is the site where I keep my documentation files and articles about computer stuff.
 
----
 
 **Running Local Server**
 
