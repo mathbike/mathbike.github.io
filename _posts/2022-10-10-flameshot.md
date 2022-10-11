@@ -85,7 +85,3 @@ flameshot config
 | Change color of drawing tool | Right Click |
 | Change thickness of drawing tool | Mouse Wheel |
 | Open side panel | <kbd>Spacebar</kbd> |
-
-<br>
-
-![](/images/flameshot/flameshot-color.png){: width="800" .normal }
