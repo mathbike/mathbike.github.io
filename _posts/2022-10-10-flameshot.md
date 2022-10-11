@@ -2,6 +2,7 @@
 title:  Flameshot Screenshot Tool
 categories: [Linux]
 tags: [linux]
+img_path: /images/flameshot/
 ---
 
 **Flameshot is a cool program for taking screenshots.**
@@ -12,7 +13,7 @@ Keybindings: <https://flameshot.org/docs/guide/key-bindings/>
 
 Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
 
-![](/images/flameshot-hero.jpg){: width="600" .normal }
+![](flameshot-hero.jpg){: width="600" .normal }
 
 ## 1. Download the Flameshot package
 
@@ -63,7 +64,7 @@ drawColor=#ffff00
 drawThickness=2
 savePath=<path to save directory>
 ```
-(Edit these values to change the initial draw color, line thickness, save directory, etc.)
+- Edit these values to change the initial draw color, line thickness, save directory, etc.
 
 Open the config gui:
 
@@ -87,4 +88,4 @@ flameshot config
 
 <br>
 
-![](/images/flameshot-color.png){: width="800" .normal }
+![](/images/flameshot/flameshot-color.png){: width="800" .normal }
