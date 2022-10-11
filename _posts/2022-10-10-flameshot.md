@@ -65,6 +65,15 @@ savePath=<path to save directory>
 ```
 (Edit these values to change the initial draw color, line thickness, save directory, etc.)
 
+Open the config gui:
+
+```sh
+flameshot config
+```
+- Under the "Interface" tab select "Increase Tool Size" and "Decrease Tool Size" to make those buttons available
+
+- Under the "General" tab select "Allow multiple flameshot gui instances simultaneously" to allow multiple instances
+
 ## 4. Using Flameshot
 
 | Description | Command |
