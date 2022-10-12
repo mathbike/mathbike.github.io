@@ -23,7 +23,7 @@ timezone: America/Toronto
 
 title: Mathbike                          # the main title
 
-tagline: Documentation and stuff   # it will display as the sub-title
+tagline: Docs, articles, and stuff   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Documentation files and articles about computer stuff.
