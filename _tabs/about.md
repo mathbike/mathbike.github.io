@@ -4,13 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-This is a site where I keep documentation files and articles about computer stuff and math.  Most things around here are Python and Arch Linux centric.  
-
-If you'd like to contact me I'm available through github or email.
+**This site is where I keep documentation files and articles about computer stuff and math.  Most things around here are Python and Arch Linux centric.  If you'd like to contact me I'm available through github or email.**
 
 ---
 
-**If you found this site useful, donations are welcome appreciated:**
+<iframe width="640" height="320" frameBorder="0"
+src="https://www.youtube.com/embed/gapZN6tioec">
+</iframe>
+
+---
+
+**If you found this site useful, donations are welcome and appreciated:**
 
 ![](/images/about/bitcoin_address.png){: width="150" .normal }
 
@@ -28,10 +32,3 @@ If you'd like to contact me I'm available through github or email.
 - **MATIC:** `0xC93742e77Be7A265bBaE4B85D21Fb365BFBA8Be0`
 
 **Thanks, - Mike**
-
-
-**Running Local Server**
-
-```terminal
-bundle exec jekyll s
-```
