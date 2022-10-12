@@ -6,11 +6,17 @@ tags: [linux]
 
 **Flameshot is a cool program for taking screenshots.**
 
-Docs: <https://flameshot.org/docs/>
+Github: 
+<a href="https://github.com/flameshot-org/flameshot" target="_blank">https://github.com/flameshot-org/flameshot</a>
 
-Keybindings: <https://flameshot.org/docs/guide/key-bindings/>
+Docs: 
+<a href="https://flameshot.org/docs/" target="_blank">https://flameshot.org/docs/</a>
 
-Arch Wiki: <https://wiki.archlinux.org/title/Flameshot>
+Keybindings:
+<a href="https://flameshot.org/docs/guide/key-bindings/" target="_blank">https://flameshot.org/docs/guide/key-bindings/</a>
+
+Arch Wiki:
+<a href="https://wiki.archlinux.org/title/Flameshot" target="_blank">https://wiki.archlinux.org/title/Flameshot</a>
 
 ![](/images/flameshot/flameshot-hero.jpg){: width="600" .normal }
 
@@ -85,3 +91,4 @@ flameshot config
 | Change color of drawing tool | Right Click |
 | Change thickness of drawing tool | Mouse Wheel |
 | Open side panel | <kbd>Spacebar</kbd> |
+| Save image | <kbd>Ctrl</kbd>+<kbd>s</kbd> |
