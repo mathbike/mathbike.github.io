@@ -6,13 +6,21 @@ order: 4
 
 **This site is where I keep documentation files and articles about computer stuff and math.  Most things around here are Python and Arch Linux centric.  If you'd like to contact me I'm available through github or email.**
 
+<br>
+
 ---
 
-<iframe width="640" height="320" frameBorder="0"
+<br>
+
+<iframe width="100%" frameBorder="0"
 src="https://www.youtube.com/embed/gapZN6tioec">
 </iframe>
 
+<br>
+
 ---
+
+<br>
 
 **If you found this site useful, donations are welcome and appreciated:**
 
