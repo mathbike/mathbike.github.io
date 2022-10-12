@@ -92,3 +92,10 @@ flameshot config
 | Change thickness of drawing tool | Mouse Wheel |
 | Open side panel | <kbd>Spacebar</kbd> |
 | Save image | <kbd>Ctrl</kbd>+<kbd>s</kbd> |
+
+---
+
+**If you found this useful:**
+
+- **BTC:** `3GoVBmKYqzQsG5B727W5MhzgZgybZKQZXz`
+- <a href="https://mathbike.github.io/about/" target="_blank">**Other crytos**</a>
