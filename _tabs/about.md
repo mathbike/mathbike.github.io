@@ -10,7 +10,7 @@ If you'd like to contact me I'm available through github or email.
 
 ---
 
-**If you found this useful:**
+**If you found this site useful, donations are welcome appreciated:**
 
 ![](/images/about/bitcoin_address.png){: width="150" .normal }
 
