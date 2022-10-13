@@ -6,7 +6,9 @@ permalink: /support/
 
 # Support
 
-If you found this site useful, donations are welcome and appreciated:
+If you found this site useful, donations are welcome and appreciated.
+
+Thanks, - Mike
 
 ![](/images/about/bitcoin_address.png){: width="150" .normal }
 
@@ -25,9 +27,7 @@ If you found this site useful, donations are welcome and appreciated:
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="WLV49F9H2FJS6" />
-<input type="image" src="https://pics.paypal.com/00/s/MTQ1MTdiNDAtYjNiMy00YjljLTlkNzgtOTVjMDk5ZTAyYzU0/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<input type="image" src="https://pics.paypal.com/00/s/MTQ1MTdiNDAtYjNiMy00YjljLTlkNzgtOTVjMDk5ZTAyYzU0/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" height="80" />
 <input type="hidden" name="no_shipping" value="1">
 <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-Thanks, - Mike
