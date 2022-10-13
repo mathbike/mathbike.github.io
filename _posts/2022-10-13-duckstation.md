@@ -5,12 +5,15 @@ tags: [gaming, windows]
 img_path: /images/duckstation/
 ---
 
-**DuckStation is a PlayStation 1 emulator.**
+**DuckStation is a PlayStation 1 emulator.  Games are available to download on the website Vimm's Lair.**
 
 ---
 
 GitHub repo:
 <a href="https://github.com/stenzek/duckstation" target="_blank">https://github.com/stenzek/duckstation</a>
+
+Vimm's Lair:
+<a href="https://vimm.net/?p=vault" target="_blank">https://vimm.net/?p=vault</a>
 
 ---
 

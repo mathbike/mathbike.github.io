@@ -1,0 +1,13 @@
+Creating an Arch Linux Install Script
+Vim Text Editor
+VSCode Text Editor
+
+Python Environment
+Python Reference
+
+Mouse Listener in Python
+
+Git Commands
+Firewall
+gpg keys
+pass password manager
