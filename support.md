@@ -4,6 +4,8 @@ title: Support
 permalink: /support/
 ---
 
+# Support
+
 **If you found this site useful, donations are welcome and appreciated:**
 
 ![](/images/about/bitcoin_address.png){: width="150" .normal }
