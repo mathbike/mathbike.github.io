@@ -16,11 +16,6 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   color: #4a86e8;
 }
 
-/* #topbar-title {
-  font-family: "Courier New", monospace;
-  color: #4a86e8;
-} */
-
 pre,
 code {
   font-family: 'JetBrains Mono';
@@ -44,36 +39,3 @@ code {
   width: 100%;
   height: 100%;
 }
-
-
-/* body {
-  font-family: 'JetBrains Mono';
-} */
-
-/* blockquote[class^="prompt-"]::before {
-  font-family: 'JetBrains Mono';
-} */
-
-/* kbd {
-  font-family: 'JetBrains Mono';
-} */
-
-/* #topbar-title {
-  font-family: 'JetBrains Mono';
-} */
-
-/* #notification .toast-body {
-  font-family: 'JetBrains Mono';
-} */
-
-/* .pagination {
-  font-family: 'JetBrains Mono';
-} */
-
-/* .tag span {
-  font-family: 'JetBrains Mono';
-} */
-
-/* #archives .date.day {
-  font-family: 'JetBrains Mono';
-} */
