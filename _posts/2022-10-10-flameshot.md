@@ -95,7 +95,4 @@ flameshot config
 
 ---
 
-**If you found this useful:**
-
-- **BTC:** `3GoVBmKYqzQsG5B727W5MhzgZgybZKQZXz`
-- <a href="https://mathbike.github.io/about/" target="_blank">**Other cryto**</a>
+{% include signature.md %}
