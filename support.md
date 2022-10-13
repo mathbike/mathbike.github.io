@@ -10,6 +10,8 @@ If you found this site useful, donations are welcome and appreciated.
 
 Thanks, - Mike
 
+---
+
 ![](/images/about/bitcoin_address.png){: width="150" .normal }
 
 - **BTC:** `3GoVBmKYqzQsG5B727W5MhzgZgybZKQZXz`
