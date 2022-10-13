@@ -8,7 +8,7 @@ order: 4
 
 ---
 
-This site is where I keep documentation files and articles about computer stuff and math.  Most things are Python and Arch Linux centric.  If you'd like to contact me I'm available through github or email.
+This site is where I keep documentation files and articles about computer stuff and math.  Most things are Python and Arch Linux centric.  If you'd like to contact me I'm available through GitHub or email.
 
 ---
 
