@@ -1,13 +1,19 @@
-Creating an Arch Linux Install Script
-Vim Text Editor
-VSCode Text Editor
 
-Python Environment
-Python Reference
 
 Mouse Listener in Python
+Python Reference
+Python Environment
+Python Basics
 
-Git Commands
-Firewall
-gpg keys
+VSCode Text Editor
+Vim Text Editor
+
+Suckless Utilities
+
 pass password manager
+gpg keys
+Git Commands
+Setting up a Firewall
+
+Setting up a Debian Server
+Creating an Arch Linux Install Script
