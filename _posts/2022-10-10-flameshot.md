@@ -9,7 +9,7 @@ img_path: /images/flameshot/
 
 ---
 
-Github: 
+GitHub: 
 <a href="https://github.com/flameshot-org/flameshot" target="_blank">https://github.com/flameshot-org/flameshot</a>
 
 Docs: 
