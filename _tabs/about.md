@@ -11,6 +11,6 @@ This site is where I keep documentation files and articles about computer stuff 
 ---
 
 <div class="video_container">
-<iframe src="//www.youtube.com/embed/yCOY82UdFrw" 
-frameborder="0" allowfullscreen class="video"></iframe>
+<iframe class="video" src="//www.youtube.com/embed/yCOY82UdFrw"
+frameborder="0" allowfullscreen></iframe>
 </div>
