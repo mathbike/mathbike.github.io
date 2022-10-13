@@ -16,17 +16,18 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   color: #4a86e8;
 }
 
-#topbar-title {
+/* #topbar-title {
   font-family: "Courier New", monospace;
   color: #4a86e8;
-}
+} */
 
-pre {
+pre,
+code {
   font-family: 'JetBrains Mono';
   font-weight: normal;
 }
 
-.go {
+/* .go {
   font-family: 'JetBrains Mono';
   font-weight: normal;
-}
+} */
