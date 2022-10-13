@@ -1,5 +1,5 @@
 ---
-title:  Installing DuckStation on Windows
+title:  Installing DuckStation PlayStation 1 Emulator on Windows
 categories: [Gaming]
 tags: [gaming, windows]
 img_path: /images/duckstation/
@@ -10,11 +10,13 @@ img_path: /images/duckstation/
 ---
 
 GitHub repo:
-<a href="https://github.com/stenzek/duckstation" target="_self">https://github.com/stenzek/duckstation</a>
+<a href="https://github.com/stenzek/duckstation" target="_blank">https://github.com/stenzek/duckstation</a>
+
+---
 
 ## 1. Download
 
-<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/duckstation-windows-x64-release.zip" target="_blank">**duckstation-windows-x64-release.zip**</a>
+<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/duckstation-windows-x64-release.zip" target="_self">**duckstation-windows-x64-release.zip**</a>
 
 ## 2. Click Extract All...
 
