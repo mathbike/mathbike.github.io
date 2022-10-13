@@ -1,4 +1,3 @@
-
 Support:
 
 - **BTC:** `3GoVBmKYqzQsG5B727W5MhzgZgybZKQZXz`

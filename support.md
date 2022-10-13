@@ -1,3 +1,9 @@
+---
+layout: page
+title: Support
+permalink: /support/
+---
+
 **If you found this site useful, donations are welcome and appreciated:**
 
 ![](/images/about/bitcoin_address.png){: width="150" .normal }
