@@ -3,6 +3,10 @@
 -
   type: github
   icon: 'fab fa-github'
+-
+  type: youtube
+  icon: 'fab fa-youtube'
+  url:  'https://www.youtube.com/channel/UCekmyVApAIVhb48Ywd-_Blg'
 #-
 #  type: twitter
 #  icon: 'fab fa-twitter'
