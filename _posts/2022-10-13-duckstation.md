@@ -10,7 +10,7 @@ img_path: /images/duckstation/
 ---
 
 GitHub repo:
-<a href="https://github.com/stenzek/duckstation" target="_blank">https://github.com/stenzek/duckstation</a>
+<a href="https://github.com/stenzek/duckstation" target="_self">https://github.com/stenzek/duckstation</a>
 
 ## 1. Download
 
@@ -28,7 +28,7 @@ GitHub repo:
 
 ## 4. Download Visual C++ runtime
 
-<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/VC_redist.x64.exe" target="_blank">**VC_redist.x64.exe**</a>
+<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/VC_redist.x64.exe" target="_self">**VC_redist.x64.exe**</a>
 
 ## 5. Double Click VC_redist.x64.exe and Install
 
@@ -36,7 +36,7 @@ GitHub repo:
 
 ## 6. Download PS1 BIOS ROM image
 
-<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/SCPH1001.zip" target="_blank">**SCPH1001.zip**</a>
+<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/SCPH1001.zip" target="_self">**SCPH1001.zip**</a>
 
 ## 7. Click Extract All...
 
