@@ -4,12 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](/assets/img/logo_round.png){: width="200" }
-
-<br>
-
----
-
 This site is where I keep documentation files and articles about computer stuff and math.  Most things are Python and Arch Linux centric.  If you'd like to contact me I'm available through GitHub or email.
 
 ---

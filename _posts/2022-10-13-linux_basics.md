@@ -20,6 +20,7 @@ Unmount:
 ```terminal
 sudo umount /mnt/usbstick
 ```
+## dd
 
 ---
 
