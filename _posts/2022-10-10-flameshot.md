@@ -6,6 +6,8 @@ tags: [linux]
 
 **Flameshot is a cool program for taking screenshots.**
 
+---
+
 Github: 
 <a href="https://github.com/flameshot-org/flameshot" target="_blank">https://github.com/flameshot-org/flameshot</a>
 
@@ -19,6 +21,8 @@ Arch Wiki:
 <a href="https://wiki.archlinux.org/title/Flameshot" target="_blank">https://wiki.archlinux.org/title/Flameshot</a>
 
 ![](/images/flameshot/flameshot-hero.jpg){: width="600" .normal }
+
+---
 
 ## 1. Download the Flameshot package
 
