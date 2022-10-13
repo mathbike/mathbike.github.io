@@ -17,7 +17,7 @@
 -
   type: support
   icon: 'fas fa-dollar-sign'
-  url:  'https://www.mathbike.com/support/'
+  url:  '/support/'
 #-
 #  type: rss
 #  icon: 'fas fa-rss'
