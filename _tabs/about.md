@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](/assets/img/logo.png){: width="200" }
+![](/assets/img/logo_round.png){: width="200" }
+
+<br>
 
 ---
 
