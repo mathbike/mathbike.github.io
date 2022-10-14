@@ -254,7 +254,7 @@ sudo apt install --assume-yes ./google-chrome-stable_current_amd64.deb
 
 <img src="google_44.png" height="300">
 
-**You now have a virtual machine running in the cloud that you can use through the browser**
+You now have a virtual machine running in the cloud that you can use through the browser.
 
 ---
 <br>

@@ -1,7 +1,7 @@
 ---
 title:  Gpg Keys and Password Management
 categories: [Security]
-tags: [gpg, password]
+tags: [gpg, passwords]
 ---
 
 ## Gpg Keys
