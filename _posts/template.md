@@ -10,6 +10,11 @@ GitHub repo:
 
 <kbd></kbd>
 
+:
+```terminal
+
+```
+
 ---
 
 {% include signature.md %}
