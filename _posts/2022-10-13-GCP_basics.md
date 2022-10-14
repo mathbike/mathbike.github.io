@@ -135,7 +135,7 @@ or
 
 <img src="google_27.png" height="300">
 
-**We just gave our Service Agent the ability to stop and start our VM instance**
+We just gave our Service Agent the ability to stop and start our VM instance.
 
 
 ## 7. Create a schedule
@@ -162,7 +162,7 @@ or
 
 <img src="google_34.png" height="300">
 
-**We have now added a stop and start time to our VM instance**
+We have now added a stop and start time to our VM instance.
 
 
 ## 8. SSH into the machine
