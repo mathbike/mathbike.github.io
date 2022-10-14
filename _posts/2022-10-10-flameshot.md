@@ -73,7 +73,7 @@ Add these lines to the file:
 [General]
 drawColor=#ffff00
 drawThickness=2
-savePath=<path to save directory>
+savePath=<path_to_save_directory>
 ```
 - Edit these values to change the initial draw color, line thickness, save directory, etc.
 

@@ -4,6 +4,18 @@ categories: [Linux]
 tags: [linux]
 ---
 
+## Arch Linux
+
+Update:
+```terminal
+sudo pacman -Syu
+```
+
+Update with ignore flag:
+```terminal
+sudo pacman -Syu --ignore <package_name>
+```
+
 ## Mount
 
 Create a mount point:
@@ -20,7 +32,16 @@ Unmount:
 ```terminal
 sudo umount /mnt/usbstick
 ```
-## dd
+
+## Xdotool
+
+GitHub repo:
+<a href="https://github.com/jordansissel/xdotool" target="_blank">https://github.com/jordansissel/xdotool</a>
+
+Get mouse location:
+```sh
+watch -t -n 0.001 xdotool getmouselocation
+```
 
 ---
 

@@ -9,7 +9,7 @@ Python Basics
 VSCode Text Editor
 Vim Text Editor
 
-Suckless Utilities
+Suckless Programs
 
 pass password manager
 gpg keys
