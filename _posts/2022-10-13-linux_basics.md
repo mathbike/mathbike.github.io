@@ -50,5 +50,44 @@ watch -t -n 0.001 xdotool getmouselocation
 ```
 
 ---
+
+## dd
+
+Arch Wiki:
+<a href="https://wiki.archlinux.org/title/Dd" target="_blank">https://wiki.archlinux.org/title/Dd</a>
+
+---
+
+- Zero fill drive:
+```terminal
+time dd if=/dev/zero of="drive" bs=1024 status=progress
+```
+
+- Random fill drive:
+```terminal
+time dd if=/dev/urandom of="drive" bs=1024 status=progress
+```
+
+The time command displays the time taken after.  The status flag shows the status while running.
+
+
+### Create a bootable usb drive
+
+- Unmount drive:
+```terminal
+umount /dev/"drive"
+```
+
+- Format drive:
+```terminal
+mkfs.ext4 /dev/"drive"
+```
+
+- Create the bootable usb:
+```terminal
+time dd if=/home/mike/iso/archlinux-2021.10.01-x86_64.iso of=/dev/"drive" bs=1M status=progress
+```
+
+---
 <br>
 {% include signature.md %}
