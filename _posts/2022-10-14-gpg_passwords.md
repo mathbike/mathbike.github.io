@@ -18,6 +18,11 @@ Arch Wiki:
 
 ---
 
+- Install:
+```terminal
+sudo pacman -S pass
+```
+
 - Initialize new password store:
 ```terminal
 pass init gpg-id_or_email
