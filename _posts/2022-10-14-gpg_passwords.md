@@ -18,44 +18,60 @@ Arch Wiki:
 
 ---
 
-Initialize new password store:
+- Initialize new password store:
 ```terminal
-pass init <gpg-id or email>
+pass init gpg-id_or_email
 ```
 
-View password store:
+- View password store:
 ```terminal
 pass
 ```
 
-dmenu list:
+- dmenu list:
 ```terminal
 passmenu
 ```
 
-Show password:
+- Show password:
 ```terminal
 pass archlinux.org/wiki/username
 ```
 
-
-# Show password:
-pass archlinux.org/wiki/username
-# Copy password to clipboard:
+- Copy password to clipboard:
+```terminal
 pass -c archlinux.org/wiki/username
-# Insert password to password store:
-pass insert archlinux.org/wiki/username
-# Insert multiline password to password store:
-pass insert -m archlinux.org/wiki/username
-# Edit password:
-pass edit archlinux.org/wiki/username
-# Generate password of n characters long:
-pass generate archlinux.org/wiki/username n
-# Generate password with no symbols:
-pass generate -n archlinux.org/wiki/username
-# Remove password:
-pass rm archlinux.org/wiki/username
+```
 
+- Insert password to password store:
+```terminal
+pass insert archlinux.org/wiki/username
+```
+
+- Insert multiline password to password store:
+```terminal
+pass insert -m archlinux.org/wiki/username
+```
+
+- Edit password:
+```terminal
+pass edit archlinux.org/wiki/username
+```
+
+- Generate password of n characters long:
+```terminal
+pass generate archlinux.org/wiki/username n
+```
+
+- Generate password with no symbols:
+```terminal
+pass generate -n archlinux.org/wiki/username
+```
+
+- Remove password:
+```terminal
+pass rm archlinux.org/wiki/username
+```
 
 ---
 

@@ -13,7 +13,7 @@ sudo pacman -Syu
 
 Update with ignore flag:
 ```terminal
-sudo pacman -Syu --ignore <package_name>
+sudo pacman -Syu --ignore package_name
 ```
 
 ## Mount
