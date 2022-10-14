@@ -4,7 +4,7 @@ Mouse Listener in Python
 
 Python Reference
 Python Environment
-Python Basics
+Anatomy of a Python Script
 
 VSCode Text Editor
 Vim Text Editor
