@@ -68,7 +68,7 @@ time dd if=/dev/zero of="drive" bs=1024 status=progress
 time dd if=/dev/urandom of="drive" bs=1024 status=progress
 ```
 
-The time command displays the time taken after.  The status flag shows the status while running.
+The time command displays the time taken once completed.  The status flag shows the status while running.
 
 
 ### Create a bootable usb drive
