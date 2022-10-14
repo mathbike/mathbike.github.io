@@ -9,6 +9,9 @@ tags: [python]
 GitHub repo:
 <a href="https://github.com/pyenv/pyenv" target="_blank">https://github.com/pyenv/pyenv</a>
 
+Commands Reference:
+<a href="https://github.com/pyenv/pyenv/blob/master/COMMANDS.md" target="_blank">https://github.com/pyenv/pyenv/blob/master/COMMANDS.md</a>
+
 ---
 
 Required packages:
