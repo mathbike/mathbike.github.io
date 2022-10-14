@@ -88,15 +88,15 @@ flameshot config
 
 ## 4. Using Flameshot
 
-| Description | Command |
-| ----------- | ----------- |
-| Take screenshot | <kbd>PrntScr</kbd> |
-| Launch from terminal | `flameshot gui` |
-| Edit config | `flameshot config` |
-| Change color of drawing tool | Right Click |
-| Change thickness of drawing tool | Mouse Wheel |
-| Open side panel | <kbd>Spacebar</kbd> |
-| Save image | <kbd>Ctrl</kbd>+<kbd>s</kbd> |
+| Command | Description |
+| - | - |
+| <kbd>PrntScr</kbd> | Take screenshot |
+| `flameshot gui` | Launch from terminal |
+| `flameshot config` | Edit config |
+| Right Click | Change color of drawing tool |
+| Mouse Wheel | Change thickness of drawing tool |
+| <kbd>Spacebar</kbd> | Open side panel |
+| <kbd>Ctrl</kbd>+<kbd>s</kbd> | Save image |
 
 ---
 <br>
