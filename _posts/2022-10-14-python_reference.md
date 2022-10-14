@@ -5,12 +5,6 @@ tags: [python]
 ---
 
 
-### Create new file:
-```python
-t = open('file.txt', 'w')
-t.close()
-```
-
 ### Delete all lines from text file:
 ```python
 t = open('file.txt', 'w')
