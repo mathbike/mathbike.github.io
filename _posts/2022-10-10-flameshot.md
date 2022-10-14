@@ -99,5 +99,5 @@ flameshot config
 | Save image | <kbd>Ctrl</kbd>+<kbd>s</kbd> |
 
 ---
-
+<br>
 {% include signature.md %}

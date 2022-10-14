@@ -16,6 +16,8 @@ Update with ignore flag:
 sudo pacman -Syu --ignore package_name
 ```
 
+---
+
 ## Mount
 
 Create a mount point:
@@ -33,10 +35,14 @@ Unmount:
 sudo umount /mnt/usbstick
 ```
 
+---
+
 ## Xdotool
 
 GitHub repo:
 <a href="https://github.com/jordansissel/xdotool" target="_blank">https://github.com/jordansissel/xdotool</a>
+
+---
 
 Get mouse location:
 ```sh
@@ -44,5 +50,5 @@ watch -t -n 0.001 xdotool getmouselocation
 ```
 
 ---
-
+<br>
 {% include signature.md %}
