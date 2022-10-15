@@ -12,7 +12,7 @@ Thanks, - Mike
 
 ---
 
-![](/images/about/bitcoin_address.png){: width="150" .normal }
+![](/assets/img/bitcoin_address2.png){: width="150" .normal }
 
 **BTC:** `3GoVBmKYqzQsG5B727W5MhzgZgybZKQZXz`<br>
 **ETH:** `0x1A242F20144e8d3eB2905f8278d3b12FE3d75fb4`<br>
