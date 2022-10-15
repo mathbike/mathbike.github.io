@@ -142,6 +142,11 @@ def listener():
 listener()
 ```
 
+### Logging
+```python
+
+```
+
 ---
 <br>
 {% include signature.md %}
