@@ -27,9 +27,10 @@ Thanks, - Mike
 **XRP:** `rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg` **Tag:** `2853281782`<br>
 **MATIC:** `0xC93742e77Be7A265bBaE4B85D21Fb365BFBA8Be0`<br>
 
+---
+
 <form action="https://www.paypal.com/donate" method="post" target="_blank">
 <input type="hidden" name="hosted_button_id" value="WLV49F9H2FJS6" />
-<input type="image" src="https://pics.paypal.com/00/s/Njk1ZmVlM2QtZjIzNC00MzRkLWI2OGEtOThjZWM5ZGYwMjRm/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" height="80" />
-<input type="hidden" name="no_shipping" value="1">
+<input type="image" src="https://pics.paypal.com/00/s/YWMwYjkxMTktN2ZmMy00MjgyLThmYWQtNmQyYzU4MDI1YTM4/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" height="60" />
 <img alt="" border="0" src="https://www.paypal.com/en_CA/i/scr/pixel.gif" width="1" height="1" />
 </form>
