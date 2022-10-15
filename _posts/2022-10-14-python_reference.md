@@ -164,7 +164,7 @@ x = 1
 y = 2
 z = x + y
 
-# call log methods
+# call log method
 logger.info('Add: {} + {} = {}'.format(x, y, z))
 ```
 
