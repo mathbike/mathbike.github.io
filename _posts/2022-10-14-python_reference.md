@@ -151,7 +151,7 @@ logger = logging.getLogger(__name__)
 # set level
 logger.setLevel(logging.INFO)
 # create formatter
-formatter = logging.Formatter('%(asctime)s:%(name)s:%(message)s')
+formatter = logging.Formatter('%(asctime)s:%(name)s:%(message)s','%Y-%m-%d %H:%M:%S')
 # create file handler
 file_handler = logging.FileHandler('main.log')
 # add formatter to file handler
