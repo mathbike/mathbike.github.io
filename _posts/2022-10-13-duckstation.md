@@ -19,7 +19,7 @@ Vimm's Lair:
 
 ## 1. Download
 
-<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/duckstation-windows-x64-release.zip" target="_self">**duckstation-windows-x64-release.zip**</a>
+<a href="https://github.com/mathbike/mathbike.github.io/raw/main/assets/images/duckstation/duckstation-windows-x64-release.zip" target="_self">**duckstation-windows-x64-release.zip**</a>
 
 ## 2. Click Extract All...
 
@@ -33,7 +33,7 @@ Vimm's Lair:
 
 ## 4. Download Visual C++ runtime
 
-<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/VC_redist.x64.exe" target="_self">**VC_redist.x64.exe**</a>
+<a href="https://github.com/mathbike/mathbike.github.io/raw/main/assets/images/duckstation/VC_redist.x64.exe" target="_self">**VC_redist.x64.exe**</a>
 
 ## 5. Double Click VC_redist.x64.exe and Install
 
@@ -41,7 +41,7 @@ Vimm's Lair:
 
 ## 6. Download PS1 BIOS ROM image
 
-<a href="https://github.com/mathbike/mathbike.github.io/raw/main/images/duckstation/SCPH1001.zip" target="_self">**SCPH1001.zip**</a>
+<a href="https://github.com/mathbike/mathbike.github.io/raw/main/assets/images/duckstation/SCPH1001.zip" target="_self">**SCPH1001.zip**</a>
 
 ## 7. Click Extract All...
 
