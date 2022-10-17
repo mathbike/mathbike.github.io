@@ -18,6 +18,7 @@
   type: support
   icon: 'fas fa-dollar-sign'
   url:  '/support/'
+  noblank: true
 #-
 #  type: rss
 #  icon: 'fas fa-rss'
