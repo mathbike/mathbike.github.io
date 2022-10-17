@@ -186,12 +186,12 @@ sudo passwd
 Set the timezone and update:
 ```terminal
 sudo timedatectl set-timezone America/Toronto
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update -y && sudo apt-get -y upgrade
 ```
 
 Install any packages you'll need:
 ```terminal
-sudo apt-get -y install git python3-venv gnome-terminal
+sudo apt-get install -y git python3-venv gnome-terminal
 ```
 
 ## 10. Install Chrome Remote Desktop, Xfce desktop environment, and Chrome browser
