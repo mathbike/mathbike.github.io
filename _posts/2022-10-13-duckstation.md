@@ -2,7 +2,7 @@
 title:  Installing DuckStation PlayStation 1 Emulator on Windows
 categories: [Gaming]
 tags: [gaming, windows]
-img_path: /images/duckstation/
+img_path: /assets/images/duckstation/
 ---
 
 **DuckStation is a PlayStation 1 emulator.  Games are available to download on the website Vimm's Lair.**

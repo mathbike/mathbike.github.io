@@ -2,7 +2,7 @@
 title:  Google Cloud Platform Virtual Machine Basics
 categories: [Cloud Computing]
 tags: [cloud computing, virtual machines]
-img_path: /images/gcp_vm_basics/
+img_path: /assets/images/gcp_vm_basics/
 ---
 
 **This is a short tutorial explaining some basic Google Cloud Platform virtual machine stuff.  Basic setup, creating and editing a machine, creating a role, creating a schedule, SSHing into the machine, setting up a desktop environment, and connecting to the machine by remote desktop.**

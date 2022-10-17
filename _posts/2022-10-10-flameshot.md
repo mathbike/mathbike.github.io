@@ -2,7 +2,7 @@
 title:  Flameshot Screenshot Tool
 categories: [Linux]
 tags: [linux]
-img_path: /images/flameshot/
+img_path: /assets/images/flameshot/
 ---
 
 **Flameshot is a cool program for taking screenshots.**
