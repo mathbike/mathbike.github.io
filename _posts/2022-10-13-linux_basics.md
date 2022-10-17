@@ -18,6 +18,19 @@ sudo pacman -Syu --ignore package_name
 
 ---
 
+## Show disk space
+
+Show disk space, with human readable flag:
+```terminal
+df -h
+```
+Show disk space of a specific file system:
+```terminal
+df -h /dev/sda2
+```
+
+---
+
 ## Mount
 
 Create a mount point:
