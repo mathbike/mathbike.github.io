@@ -11,7 +11,11 @@ GitHub repo:
 <img src="">{: .normal }
 <img src="">{: .normal width="700" height="400" }
 
-<kbd></kbd>
+| Command | Description |
+| - | - |
+|  |  |
+
+<kbd></kbd>+
 
 :
 ```terminal
