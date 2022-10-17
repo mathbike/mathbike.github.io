@@ -78,6 +78,4 @@ pass generate -n archlinux.org/wiki/username
 pass rm archlinux.org/wiki/username
 ```
 
----
-<br>
 {% include signature.md %}

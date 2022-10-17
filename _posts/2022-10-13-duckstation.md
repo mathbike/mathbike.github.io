@@ -87,6 +87,4 @@ Vimm's Lair:
 
 <img src="2022-10-06_16-28.png">{: .normal }
 
----
-<br>
 {% include signature.md %}

@@ -6,6 +6,5 @@ tags: [linux, arch linux]
 
 
 
----
-<br>
+
 {% include signature.md %}

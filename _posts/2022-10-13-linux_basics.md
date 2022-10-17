@@ -101,6 +101,4 @@ mkfs.ext4 /dev/"drive"
 time dd if=/home/mike/iso/archlinux-2021.10.01-x86_64.iso of=/dev/"drive" bs=1M status=progress
 ```
 
----
-<br>
 {% include signature.md %}

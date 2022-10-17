@@ -20,6 +20,4 @@ if __name__ == "__main__":
 ```
 
 
----
-<br>
 {% include signature.md %}

@@ -93,6 +93,4 @@ Add:
 "python.terminal.activateEnvironment": true
 ```
 
----
-<br>
 {% include signature.md %}

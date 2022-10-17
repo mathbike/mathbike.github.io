@@ -98,6 +98,4 @@ flameshot config
 | <kbd>Spacebar</kbd> | Open side panel |
 | <kbd>Ctrl</kbd>+<kbd>s</kbd> | Save image |
 
----
-<br>
 {% include signature.md %}

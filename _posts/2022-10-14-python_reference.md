@@ -169,6 +169,4 @@ z = x + y
 logger.info('Add: {} + {} = {}'.format(x, y, z))
 ```
 
----
-<br>
 {% include signature.md %}

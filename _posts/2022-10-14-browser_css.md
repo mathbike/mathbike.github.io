@@ -66,6 +66,4 @@ I don't like the standard GitHub code font.
 
 I don't like the standard Colab code font.
 
----
-<br>
 {% include signature.md %}
