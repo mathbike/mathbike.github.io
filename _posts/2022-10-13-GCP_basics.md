@@ -221,11 +221,11 @@ sudo apt install --assume-yes ./google-chrome-stable_current_amd64.deb
 - Go to Chrome Remote Desktop:
 <a href="https://remotedesktop.google.com/" target="_blank">https://remotedesktop.google.com/</a>
 
-- Click `Set up via SSH`, and `Begin`:
+- Click <kbd>Set up via SSH</kbd>, and <kbd>Begin</kbd>:
 
 <img src="google_37.png" height="300">
 
-- Click `Next` and `Authorize`:
+- Click <kbd>Next</kbd> and <kbd>Authorize</kbd>:
 
 - Copy the Debian Linux command:
 
@@ -233,7 +233,7 @@ sudo apt install --assume-yes ./google-chrome-stable_current_amd64.deb
 
 - Paste it into SSH console and create a 6 digit PIN
 
-- Click `Remote Access`:
+- Click <kbd>Remote Access</kbd>:
 
 <img src="google_39.png" height="300">
 
