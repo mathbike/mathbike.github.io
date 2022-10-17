@@ -1,7 +1,7 @@
 ---
 title:  Creating an Arch Linux Install Script
 categories: [Linux]
-tags: [linux]
+tags: [linux, arch linux]
 ---
 
 
