@@ -8,6 +8,9 @@ img_path: /images/dir/
 GitHub repo:
 <a href="" target="_blank"></a>
 
+<img src="">{: .normal }
+<img src="">{: .normal width="700" height="400" }
+
 <kbd></kbd>
 
 :
