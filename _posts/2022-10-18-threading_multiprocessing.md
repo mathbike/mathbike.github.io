@@ -2,23 +2,33 @@
 title:  Threading vs Multiprocessing in Python
 categories: [Python]
 tags: [python]
+mermaid: true
 ---
 
 **Both processes and threads are independent sequences of execution.**
 
 The typical difference is that threads (of the same process) run in a shared memory space, while processes run in separate memory spaces.
 
-Threads live inside processes and share the same memory space, and can read and write to the same variables.S
+Threads live inside processes and share the same memory space, and can read and write to the same variables.
+
+---
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Adding GANTT diagram to mermaid
+excludes weekdays 2014-01-10
+
+section A section
+Completed task            :done,    des1, 2014-01-06,2014-01-08
+Active task               :active,  des2, 2014-01-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2               :         des4, after des3, 5d
+```
 
 ---
 
 ## Threading
-
-- A new thread is spawned within the existing process
-- Starting a thread is faster than starting a process
-- Memory is shared between all threads
-- Mutexes often necessary to control access to shared data
-- One GIL (Global Interpreter Lock) for all threads
 
 ```python
 from threading import Thread
@@ -41,6 +51,11 @@ for thread in threads:
 for thread in threads:
 	thread.join()
 ```
+- A new thread is spawned within the existing process
+- Starting a thread is faster than starting a process
+- Memory is shared between all threads
+- Mutexes often necessary to control access to shared data
+- One GIL (Global Interpreter Lock) for all threads
 
 ---
 

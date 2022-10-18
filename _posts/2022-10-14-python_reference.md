@@ -151,4 +151,11 @@ z = x + y
 logger.info('Add: {} + {} = {}'.format(x, y, z))
 ```
 
+### Threads:
+```python
+from threading import Thread
+
+
+```
+
 {% include signature.md %}
