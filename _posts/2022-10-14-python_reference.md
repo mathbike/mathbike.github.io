@@ -151,17 +151,4 @@ z = x + y
 logger.info('Add: {} + {} = {}'.format(x, y, z))
 ```
 
-### Threading vs Multiprocessing:
-```python
-Thread
-Threading
-
-Process
-Multiprocessing 
-```
-
-Both processes and threads are independent sequences of execution. The typical difference is that threads (of the same process) run in a shared memory space, while processes run in separate memory spaces.
-
-Threads live inside processes and share the same memory space, and can read and write to the same variables. 
-
 {% include signature.md %}
