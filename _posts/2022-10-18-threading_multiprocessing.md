@@ -39,14 +39,22 @@ def calc():
 	for i in range(0, 4000000):
 		math.sqrt(i)
 
+# each thread will contain a target,
+# which is a method that is called at the beginning of that thread
+
 threads = []
 
 for i in range(os.cpu_count()):
 	print('registering thread %d' % i)
 	threads.append(Thread(target=calc))
 
+# a thread is started by calling start()    
+
 for thread in threads:
 	thread.start()
+
+# a thread is ended by calling join()
+# which waits until the thread finishes (blocking)
 
 for thread in threads:
 	thread.join()
