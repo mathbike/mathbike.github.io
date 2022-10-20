@@ -6,10 +6,6 @@ permalink: /support/
 
 # Support
 
-If you found this site useful, donations are welcome and appreciated.
-
-Thanks, - Mike
-
 ---
 
 ![](/assets/img/bitcoin_address2.png){: width="150" .normal }
