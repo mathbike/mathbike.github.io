@@ -5,11 +5,6 @@ tags: [linux, arch linux]
 math: true
 ---
 
-ttttessst $$ X $$ hello
-
-$$ X $$
-
-ttttessst $$ X $$ hello
 
 
 {% include signature.md %}
