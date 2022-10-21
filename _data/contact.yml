@@ -15,10 +15,12 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: support
-  icon: 'fas fa-dollar-sign'
-  url:  '/support/'
-  noblank: true
+
+#-
+#  type: support
+#  icon: 'fas fa-dollar-sign'
+#  url:  '/support/'
+#  noblank: true
 #-
 #  type: rss
 #  icon: 'fas fa-rss'
