@@ -5,6 +5,3 @@ tags: [linux, arch linux]
 math: true
 ---
 
-
-
-{% include signature.md %}

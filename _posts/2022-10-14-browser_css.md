@@ -36,8 +36,6 @@ This is useful to get a quick dark mode if a site is too bright.
 }
 ```
 
-I don't like the standard GitHub code font.
-
 ---
 
 ## Google Colab Font
@@ -63,7 +61,3 @@ I don't like the standard GitHub code font.
 }
 }
 ```
-
-I don't like the standard Colab code font.
-
-{% include signature.md %}

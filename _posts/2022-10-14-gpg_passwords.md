@@ -77,5 +77,3 @@ pass generate -n archlinux.org/wiki/username
 ```terminal
 pass rm archlinux.org/wiki/username
 ```
-
-{% include signature.md %}

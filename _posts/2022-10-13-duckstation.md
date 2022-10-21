@@ -86,5 +86,3 @@ Vimm's Lair:
 ## 17. Play
 
 <img src="2022-10-06_16-28.png">{: .normal }
-
-{% include signature.md %}

@@ -157,5 +157,3 @@ from threading import Thread
 
 def 
 ```
-
-{% include signature.md %}

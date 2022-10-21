@@ -92,5 +92,3 @@ Add:
 ```json
 "python.terminal.activateEnvironment": true
 ```
-
-{% include signature.md %}

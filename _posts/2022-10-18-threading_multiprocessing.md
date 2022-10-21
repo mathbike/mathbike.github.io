@@ -96,5 +96,3 @@ for process in processes:
 for process in processes:
 	process.join()
 ```
-
-{% include signature.md %}

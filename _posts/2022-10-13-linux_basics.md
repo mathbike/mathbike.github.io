@@ -88,5 +88,3 @@ mkfs.ext4 /dev/"drive"
 ```terminal
 time dd if="input_file_path" of="output_file_path" bs=1M status=progress
 ```
-
-{% include signature.md %}

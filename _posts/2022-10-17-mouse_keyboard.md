@@ -41,5 +41,3 @@ GitHub repo:
 ```sh
 watch -t -n 0.001 xdotool getmouselocation
 ```
-
-{% include signature.md %}
