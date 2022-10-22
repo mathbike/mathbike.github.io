@@ -92,3 +92,13 @@ Add:
 ```json
 "python.terminal.activateEnvironment": true
 ```
+
+## Some other thing
+
+```python
+pip freeze > requirements.txt
+```
+
+```python
+pip install -r requirements.txt
+```
