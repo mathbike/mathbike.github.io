@@ -16,12 +16,12 @@ GitHub repo:
 
 ## 1. Setup Kijiji-Manager
 
-- Clone the repo:
+Clone the repo:
 ```terminal
 git clone https://<PERSONAL_ACCESS_TOKEN>@github.com/mathbike/kijiji-manager.git
 ```
 
-- Setup:
+Setup:
 ```terminal
 cd kijiji-manager
 python3 -m venv venv
@@ -31,7 +31,7 @@ pip install .
 python3 keychange.py
 ```
 
-- Start kijiji-manager:
+Start kijiji-manager:
 ```
 cd kijiji-manager &&
 source venv/bin/activate &&
@@ -48,7 +48,7 @@ You can now post your ads from here.  Kijiji-Manager saves the ads you create as
 
 ## 2. Setup the `accounts.yaml` file
 
-- Add your kijiji account details to the accounts.yaml file
+Add your kijiji account details to the accounts.yaml file
 ```yaml
 account1:
   vm_name: <vm_name>
@@ -69,12 +69,12 @@ Change the vm_name variable to the name of your VM. It uses the vm_name variable
 
 See <a href="https://crontab.cronhub.io/" target="_blank">https://crontab.cronhub.io/</a> for details on cron scheduling
 
-- Open the crontab file with the edit flag:
+Open the crontab file with the edit flag:
 ```terminal
 crontab -e
 ```
 
-- To repost all your ads every hour:
+To repost all your ads every hour:
 ```terminal
 # """ EVERY HOUR """
 # start
@@ -87,7 +87,7 @@ crontab -e
 
 Replace `<username>`  with your username.  There are 3 scripts being run.  The first one starts the kijiji-manager flask server.  Then 1 minute later the `repost.py` script reposts all the ads.  There is a 3 minute delay when reposting to ensure your ads aren't flagged.  Then 5 minutes later there is a script to stop the flask server.  If you're going to make your own cron schedules, keep the time between scripts the same: 0, 1, 6, or 33, 34, 39, etc.
 
-- Let's say you want 4 reposts per day, at 12:05 AM, 6:05 AM, 12:05 PM, and 6:05 PM:
+Let's say you want 4 reposts per day, at 12:05 AM, 6:05 AM, 12:05 PM, and 6:05 PM:
 ```terminal
 # """ 12:05 AM """
 # start
@@ -125,7 +125,7 @@ This is super janky.  Everything can be done with one Python script.
 
 ## Kijiji-Reposter
 
-- Install Kijiji-Reposter:
+Install Kijiji-Reposter:
 ```sh
 git clone https://github.com/rybodiddly/Kijiji-Reposter.git &&
 cd Kijiji-Reposter &&
@@ -136,7 +136,7 @@ pip3 install WTForms==2.3.3 &&
 pip3 install -r requirements.txt
 ```
 
-- Start Kijiji-Reposter:
+Start Kijiji-Reposter:
 ```terminal
 cd Kijiji-Reposter &&
 source venv/bin/activate &&
