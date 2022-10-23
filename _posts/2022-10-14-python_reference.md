@@ -5,20 +5,20 @@ tags: [python]
 ---
 
 
-- ### Delete all lines from text file:
+### Delete all lines from text file:
 ```python
 t = open('file.txt', 'w')
 t.close()
 ```
 
-- ### Get number of files in a directory:
+### Get number of files in a directory:
 ```python
 import os
 folder_path = '/home/mike/directory'
 number_of_files = len(os.listdir(folder_path))
 ```
 
-- ### Open text file and add each line as an element in a list:
+### Open text file and add each line as an element in a list:
 ```python
 list1 = []
 with open('file.txt', 'r') as f:
@@ -32,7 +32,7 @@ print(list2)
 print(list2[0])
 ```
 
-- ### Create json file:
+### Create json file:
 ```python
 import json
 # function to append data to file.json
@@ -47,7 +47,7 @@ data = { "key1": [] }
 write_json(data)
 ```
 
-- ### Add values to json file:
+### Add values to json file:
 ```python
 import json
 # create temporary dictionary
@@ -71,7 +71,7 @@ with open ("file.json") as json_file:
 write_json(data)
 ```
 
-- ### Access values in json file:
+### Access values in json file:
 ```python
 import json
 # load json data from json file
@@ -83,7 +83,7 @@ print(data["key1"])
 print(data["key1"][0]["key1"])
 ```
 
-- ### Save request response to json file:
+### Save request response to json file:
 ```python
 import requests, json
 # first send request, then:
@@ -92,7 +92,7 @@ with open('data.json', 'w') as f:
     json.dump(data, f, indent=4)
 ```
 
-- ### Floor then round to a certain number of decimal places:
+### Floor then round to a certain number of decimal places:
 ```python
 import math
 # round 28855.235 to 28855.23
@@ -109,7 +109,7 @@ rounded = round(28855.234, decimal_places)
 print(rounded)
 ```
 
-- ### Pandas:
+### Pandas:
 ```python
 import pandas as pd
 # from csv
