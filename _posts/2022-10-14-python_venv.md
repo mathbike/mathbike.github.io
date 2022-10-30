@@ -71,7 +71,8 @@ pyenv local [PYTHON_VERSION]
 
 ---
 
-Create virtual environment:
+## Create virtual environment
+
 ```terminal
 python3 -m venv .venv
 ```
@@ -80,6 +81,9 @@ Activate virtual environment:
 ```terminal
 source .venv/bin/activate
 ```
+---
+
+## add .venv to .gitignore
 
 ---
 
@@ -93,7 +97,7 @@ Add:
 "python.terminal.activateEnvironment": true
 ```
 
-## Some other thing
+## Some other things
 
 ```python
 pip freeze > requirements.txt
