@@ -4,4 +4,4 @@ categories: [Math]
 tags: [math, python]
 ---
 
-The Math Sorcerer's forums were targeted by bots
+The Math Sorcerer's forums was targeted by bots.
