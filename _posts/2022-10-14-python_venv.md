@@ -106,3 +106,5 @@ pip freeze > requirements.txt
 ```python
 pip install -r requirements.txt
 ```
+## Set up your .gitignore
+
