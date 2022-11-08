@@ -10,9 +10,9 @@ tags: [python]
 with open("file_input.py", "r") as file_input:
     with open("file_output.py", "w") as file_output: 
         for line in file_input:
-            if line.startswith('#'):
+            if line.lstrip().startswith('#'):
                 continue
-            if line.startswith('print'):
+            if line.lstrip().startswith('print'):
                 continue
             file_output.write(line)
 ```
