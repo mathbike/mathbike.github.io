@@ -5,10 +5,16 @@ tags: [python]
 ---
 
 
-### Delete all lines from text file:
+### Delete all lines that start with comments and print statements from file:
 ```python
-t = open('file.txt', 'w')
-t.close()
+with open("file_input.py", "r") as file_input:
+    with open("file_output.py", "w") as file_output: 
+        for line in file_input:
+            if line.startswith('#'):
+                continue
+            if line.startswith('print'):
+                continue
+            file_output.write(line)
 ```
 
 ### Get number of files in a directory:
