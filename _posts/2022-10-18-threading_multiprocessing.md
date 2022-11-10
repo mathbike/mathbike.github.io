@@ -55,6 +55,7 @@ for thread in threads:
 
 # a thread is ended by calling join()
 # which waits until the thread finishes (blocking)
+# and the joins that thread with the main thread
 
 for thread in threads:
 	thread.join()
