@@ -88,3 +88,8 @@ Create the bootable usb drive:
 ```terminal
 time dd if="input_file_path" of="output_file_path" bs=1M status=progress
 ```
+
+Create the bootable usb drive:
+```terminal
+time sudo dd if=~/iso/arch/archlinux-2022.11.01-x86_64.iso of=/dev/sdb bs=1M status=progress
+```
