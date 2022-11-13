@@ -5,6 +5,16 @@ tags: [python]
 ---
 
 
+### Exit program:
+```python
+import sys
+ 
+while True:
+    age = float(input("Enter age:"))
+    if age < 18:   
+        sys.exit()
+```
+
 ### Delete all lines that start with comments and print statements from file:
 ```python
 with open("file_input.py", "r") as file_input:
