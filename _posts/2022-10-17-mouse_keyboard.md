@@ -37,7 +37,7 @@ GitHub repo:
 
 ---
 
-- Get mouse location:
+Get mouse location:
 ```sh
 watch -t -n 0.001 xdotool getmouselocation
 ```
