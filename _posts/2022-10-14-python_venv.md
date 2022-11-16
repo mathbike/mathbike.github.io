@@ -13,14 +13,14 @@ mkdir .vscode
 echo "{ \"python.terminal.activateEnvironment\": true }" > .vscode/settings.json
 ```
 
-```python
+```terminal
 pip freeze > requirements.txt
 ```
 
 ## Some other things
 
 Pip install requirements.txt
-```python
+```terminal
 pip install -r requirements.txt
 ```
 
