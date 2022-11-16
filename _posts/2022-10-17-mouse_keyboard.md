@@ -1,7 +1,7 @@
 ---
 title:  Controlling the Mouse and Keyboard with Code
-categories: [category]
-tags: [tag]
+categories: [Python]
+tags: [python]
 ---
 
 ## Python

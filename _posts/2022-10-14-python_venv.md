@@ -4,6 +4,17 @@ categories: [Python]
 tags: [python]
 ---
 
+## Set up an environment in vscode
+
+```sh
+python3 -m venv .venv
+echo ".venv" > .gitignore
+mkdir .vscode
+echo "{ \"python.terminal.activateEnvironment\": true }" > .vscode/settings.json
+```
+
+---
+
 ## pyenv
 
 GitHub repo:
@@ -83,7 +94,12 @@ source .venv/bin/activate
 ```
 ---
 
-## add .venv to .gitignore
+## Set up .gitignore
+
+`.gitignore`
+```terminal
+.venv
+```
 
 ---
 
