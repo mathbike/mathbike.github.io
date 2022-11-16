@@ -4,13 +4,29 @@ categories: [Python]
 tags: [python]
 ---
 
-## Set up an environment in vscode
+## Set up a Python environment in vscode
 
 ```sh
 python3 -m venv .venv
 echo ".venv" > .gitignore
 mkdir .vscode
 echo "{ \"python.terminal.activateEnvironment\": true }" > .vscode/settings.json
+```
+
+```python
+pip freeze > requirements.txt
+```
+
+## Some other things
+
+Pip install requirements.txt
+```python
+pip install -r requirements.txt
+```
+
+Activate virtual environment:
+```terminal
+source .venv/bin/activate
 ```
 
 ---
@@ -79,48 +95,3 @@ Set local version:
 ```terminal
 pyenv local [PYTHON_VERSION]
 ```
-
----
-
-## Create virtual environment
-
-```terminal
-python3 -m venv .venv
-```
-
-Activate virtual environment:
-```terminal
-source .venv/bin/activate
-```
----
-
-## Set up .gitignore
-
-`.gitignore`
-```terminal
-.venv
-```
-
----
-
-## Using pyenv with VSCode
-
-Open workspace settings:
-`.vscode/settings.json`
-
-Add:
-```json
-"python.terminal.activateEnvironment": true
-```
-
-## Some other things
-
-```python
-pip freeze > requirements.txt
-```
-
-```python
-pip install -r requirements.txt
-```
-## Set up your .gitignore
-
