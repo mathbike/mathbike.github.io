@@ -38,8 +38,8 @@ bundle exec jekyll s
     }}}%%
 
 %%{init: {'theme': 'base', 'themeVariables': { 
-    'primaryColor': '#8ab4f8', 
     'textColor': 'black', 
+    'primaryColor': '#8ab4f8',
     'primaryBorderColor':'#4a86e8', 
     'tertiaryColor': '#8ab4f8', 
     'lineColor': '#4a86e8'
