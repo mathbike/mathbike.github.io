@@ -4,3 +4,6 @@ bundle exec jekyll s
 /home/mike/.local/share/gem/ruby/3.0.0/gems/jekyll-theme-chirpy-5.3.0
 
 {% include signature.md %}
+
+
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#8ab4f8', 'textColor': 'black', 'primaryBorderColor':'#4a86e8', 'tertiaryColor': '#8ab4f8', 'lineColor': '#4a86e8'}}}%%
