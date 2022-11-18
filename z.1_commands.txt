@@ -5,5 +5,42 @@ bundle exec jekyll s
 
 {% include signature.md %}
 
+%%{init: {'theme': 'dark', 'themeVariables': { 
+    'darkMode': 'true'
+    }}}%%
 
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#8ab4f8', 'textColor': 'black', 'primaryBorderColor':'#4a86e8', 'tertiaryColor': '#8ab4f8', 'lineColor': '#4a86e8'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 
+    'primaryColor': '#ff0000',
+    'primaryBorderColor':'yellow'
+    }}}%%
+
+%%{init: {'themeVariables': { 
+    'background': 'green',
+    'textColor': 'black',
+    'primaryColor': '#8ab4f8', 
+    'primaryBorderColor':'#ff0000', 
+    'tertiaryColor': 'grey', 
+    'lineColor': '#4a86e8'
+    }}}%%
+
+%%{init: {'themeVariables': { 
+    'textColor': 'black',
+    'primaryColor': '#8ab4f8', 
+    'primaryBorderColor':'#4a86e8', 
+    'tertiaryColor': '#8ab4f8', 
+    'lineColor': '#4a86e8'
+    }}}%%
+
+%%{init: {'themeVariables': { 
+    'mainBkg': '#8ab4f8',
+    'textColor': 'true',
+    'primaryBorderColor':'yellow'
+    }}}%%
+
+%%{init: {'theme': 'base', 'themeVariables': { 
+    'primaryColor': '#8ab4f8', 
+    'textColor': 'black', 
+    'primaryBorderColor':'#4a86e8', 
+    'tertiaryColor': '#8ab4f8', 
+    'lineColor': '#4a86e8'
+    }}}%%
