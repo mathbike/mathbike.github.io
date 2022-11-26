@@ -98,3 +98,7 @@ time sudo dd if=~/iso/arch/archlinux-2022.11.01-x86_64.iso of=/dev/sdb bs=1M sta
 - make sure shebang `#!/bin/bash` is at the top of the script
 - change permissions to allow user to execute `chmod u+x <scriptname>.sh`
 - run with `./<scriptname>.sh`
+
+or symlink it to `/usr/local/bin`
+
+- `sudo ln -s /path/to/<scriptname>.sh /usr/local/bin`
