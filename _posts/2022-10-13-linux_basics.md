@@ -93,3 +93,8 @@ Create the bootable usb drive:
 ```terminal
 time sudo dd if=~/iso/arch/archlinux-2022.11.01-x86_64.iso of=/dev/sdb bs=1M status=progress
 ```
+### Make script executable
+
+- make sure shebang `#!/bin/bash` is at the top of the script
+- change permissions to allow user to execute `chmod u+x <scriptname>.sh`
+- run with `./<scriptname>.sh`
