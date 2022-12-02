@@ -4,6 +4,15 @@ categories: [Python]
 tags: [python]
 ---
 
+### Pass variable from terminal to python script
+
+```python
+import sys
+print(sys.argv[1])
+```
+```terminal
+python3 <filename>.py <arg[1]>
+```
 
 ### Exit program:
 ```python
