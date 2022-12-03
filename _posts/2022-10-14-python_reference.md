@@ -26,7 +26,7 @@ import sys
 print(sys.argv[1])
 ```
 ```terminal
-python3 <filename>.py <arg[1]>
+python3 <filename>.py <argv[1]>
 ```
 
 ### Exit program:
