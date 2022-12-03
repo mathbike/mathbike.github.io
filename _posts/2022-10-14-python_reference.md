@@ -190,10 +190,3 @@ z = x + y
 # call log method
 logger.info('Add: {} + {} = {}'.format(x, y, z))
 ```
-
-### Threads:
-```python
-from threading import Thread
-
-def 
-```
