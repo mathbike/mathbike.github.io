@@ -4,6 +4,21 @@ categories: [Python]
 tags: [python]
 ---
 
+### Serch script for string and replace
+
+```python
+# Read in the file
+with open('__init__.py', 'r') as file :
+  filedata = file.read()
+
+# Replace the target string
+filedata = filedata.replace('$NAME', 'abcd')
+
+# Write the file out again
+with open('__init__.py', 'w') as file:
+  file.write(filedata)
+```
+
 ### Pass variable from terminal to python script
 
 ```python
