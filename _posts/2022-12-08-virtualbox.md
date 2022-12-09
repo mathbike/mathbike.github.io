@@ -9,3 +9,8 @@ Arch Wiki:
 
 ---
 
+Install VirtualBox and Guest Additions packages:
+```terminal
+sudo pacman -S virtualbox virtualbox-guest-iso
+```
+
