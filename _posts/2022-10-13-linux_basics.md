@@ -20,6 +20,11 @@ sudo pacman -Syu --ignore package_name
 
 ## Basics
 
+unzip:
+```terminal
+unzip filename.zip -d /path/to/directory
+```
+
 List files:
 ```terminal
 ls -lah
