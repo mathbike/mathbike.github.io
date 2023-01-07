@@ -20,5 +20,7 @@ sudo pacman -S virtualbox virtualbox-guest-iso
 
 **Guest:**
 
-To insert the guest additions
-
+Install guest additions:
+```
+sudo pacman -S virtualbox-guest-utils
+```
