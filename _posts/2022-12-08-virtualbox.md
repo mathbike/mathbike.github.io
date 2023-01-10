@@ -24,3 +24,6 @@ Install guest additions:
 ```
 sudo pacman -S virtualbox-guest-utils
 ```
+Do not install guest additions, enable shared clipboard, drives, or usb, if guest is intended to be exposed to potential viruses/malware.
+
+
